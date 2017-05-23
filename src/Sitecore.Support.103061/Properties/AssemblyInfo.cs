@@ -1,0 +1,8 @@
+using System.Reflection;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyTitle("Sitecore.Support.103061")]
+[assembly: AssemblyProduct("Sitecore.Support.103061")]
+[assembly: ComVisible(false)]
+[assembly: AssemblyDescription("Mutes excessive warnings when the device detection is disabled")]
+
